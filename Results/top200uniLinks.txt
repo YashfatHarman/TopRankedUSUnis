@@ -1,0 +1,203 @@
+Adelphi University|https://en.wikipedia.org/wiki/Adelphi_University
+American University|https://en.wikipedia.org/wiki/American_University
+Andrews University|https://en.wikipedia.org/wiki/Andrews_University
+Arizona State University#Tempe|https://en.wikipedia.org/wiki/Arizona_State_University
+Ashland University|https://en.wikipedia.org/wiki/Ashland_University
+Auburn University|https://en.wikipedia.org/wiki/Auburn_University
+Azusa Pacific University|https://en.wikipedia.org/wiki/Azusa_Pacific_University
+Ball State University|https://en.wikipedia.org/wiki/Ball_State_University
+Baylor University|https://en.wikipedia.org/wiki/Baylor_University
+Binghamton University#SUNY|https://en.wikipedia.org/wiki/Binghamton_University
+Biola University|https://en.wikipedia.org/wiki/Biola_University
+Boston College|https://en.wikipedia.org/wiki/Boston_College
+Boston University|https://en.wikipedia.org/wiki/Boston_University
+Bowling Green State University|https://en.wikipedia.org/wiki/Bowling_Green_State_University
+Brandeis University|https://en.wikipedia.org/wiki/Brandeis_University
+Brigham Young University#Provo|https://en.wikipedia.org/wiki/Brigham_Young_University
+Brown University|https://en.wikipedia.org/wiki/Brown_University
+California Institute of Technology|https://en.wikipedia.org/wiki/California_Institute_of_Technology
+Carnegie Mellon University|https://en.wikipedia.org/wiki/Carnegie_Mellon_University
+Case Western Reserve University|https://en.wikipedia.org/wiki/Case_Western_Reserve_University
+Central Michigan University|https://en.wikipedia.org/wiki/Central_Michigan_University
+Clark University|https://en.wikipedia.org/wiki/Clark_University
+Clarkson University|https://en.wikipedia.org/wiki/Clarkson_University
+Clemson University|https://en.wikipedia.org/wiki/Clemson_University
+College of William and Mary|https://en.wikipedia.org/wiki/College_of_William_and_Mary
+Colorado School of Mines|https://en.wikipedia.org/wiki/Colorado_School_of_Mines
+Colorado State University|https://en.wikipedia.org/wiki/Colorado_State_University
+Columbia University|https://en.wikipedia.org/wiki/Columbia_University
+Cornell University|https://en.wikipedia.org/wiki/Cornell_University
+Dartmouth College|https://en.wikipedia.org/wiki/Dartmouth_College
+DePaul University|https://en.wikipedia.org/wiki/DePaul_University
+Drexel University|https://en.wikipedia.org/wiki/Drexel_University
+Duke University|https://en.wikipedia.org/wiki/Duke_University
+Duquesne University|https://en.wikipedia.org/wiki/Duquesne_University
+East Carolina University|https://en.wikipedia.org/wiki/East_Carolina_University
+Edgewood College|https://en.wikipedia.org/wiki/Edgewood_College
+Emory University|https://en.wikipedia.org/wiki/Emory_University
+Florida Institute of Technology|https://en.wikipedia.org/wiki/Florida_Institute_of_Technology
+Florida State University|https://en.wikipedia.org/wiki/Florida_State_University
+Fordham University|https://en.wikipedia.org/wiki/Fordham_University
+George Mason University|https://en.wikipedia.org/wiki/George_Mason_University
+George Washington University|https://en.wikipedia.org/wiki/George_Washington_University
+Georgetown University|https://en.wikipedia.org/wiki/Georgetown_University
+Georgia Institute of Technology|https://en.wikipedia.org/wiki/Georgia_Institute_of_Technology
+Harvard University|https://en.wikipedia.org/wiki/Harvard_University
+Hofstra University|https://en.wikipedia.org/wiki/Hofstra_University
+Howard University|https://en.wikipedia.org/wiki/Howard_University
+Illinois Institute of Technology|https://en.wikipedia.org/wiki/Illinois_Institute_of_Technology
+Illinois State University|https://en.wikipedia.org/wiki/Illinois_State_University
+Immaculata University|https://en.wikipedia.org/wiki/Immaculata_University
+Indiana University#Bloomington|https://en.wikipedia.org/wiki/Indiana_University_Bloomington
+Indiana University-Purdue University#Indianapolis|https://en.wikipedia.org/wiki/Indiana_University_%E2%80%93_Purdue_University_Indianapolis
+Iowa State University|https://en.wikipedia.org/wiki/Iowa_State_University
+Johns Hopkins University|https://en.wikipedia.org/wiki/Johns_Hopkins_University
+Kansas State University|https://en.wikipedia.org/wiki/Kansas_State_University
+Kent State University|https://en.wikipedia.org/wiki/Kent_State_University
+Lehigh University|https://en.wikipedia.org/wiki/Lehigh_University
+Louisiana State University#Baton Rouge|https://en.wikipedia.org/wiki/Louisiana_State_University
+Louisiana Tech University|https://en.wikipedia.org/wiki/Louisiana_Tech_University
+Loyola University Chicago|https://en.wikipedia.org/wiki/Loyola_University_Chicago
+Marquette University|https://en.wikipedia.org/wiki/Marquette_University
+Maryville University of St. Louis|https://en.wikipedia.org/wiki/Maryville_University
+Massachusetts Institute of Technology|https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology
+Miami University#Oxford|https://en.wikipedia.org/wiki/Miami_University
+Michigan State University|https://en.wikipedia.org/wiki/Michigan_State_University
+Michigan Technological University|https://en.wikipedia.org/wiki/Michigan_Technological_University
+Mississippi State University|https://en.wikipedia.org/wiki/Mississippi_State_University
+Missouri University of Science & Technology|https://en.wikipedia.org/wiki/Missouri_University_of_Science_and_Technology
+New Jersey Institute of Technology|https://en.wikipedia.org/wiki/New_Jersey_Institute_of_Technology
+New Mexico State University|https://en.wikipedia.org/wiki/New_Mexico_State_University
+New School|https://en.wikipedia.org/wiki/New_School
+New York University|https://en.wikipedia.org/wiki/New_York_University
+North Carolina State University#Raleigh|https://en.wikipedia.org/wiki/North_Carolina_State_University
+North Dakota State University|https://en.wikipedia.org/wiki/North_Dakota_State_University
+Northeastern University|https://en.wikipedia.org/wiki/Northeastern_University
+Northwestern University|https://en.wikipedia.org/wiki/Northwestern_University
+Ohio State University#Columbus|https://en.wikipedia.org/wiki/Ohio_State_University
+Ohio University|https://en.wikipedia.org/wiki/Ohio_University
+Oklahoma State University|https://en.wikipedia.org/wiki/Oklahoma_State_University%E2%80%93Stillwater
+Oregon State University|https://en.wikipedia.org/wiki/Oregon_State_University
+Pace University|https://en.wikipedia.org/wiki/Pace_University
+Pennsylvania State University#University Park|https://en.wikipedia.org/wiki/Pennsylvania_State_University
+Pepperdine University|https://en.wikipedia.org/wiki/Pepperdine_University
+Princeton University|https://en.wikipedia.org/wiki/Princeton_University
+Purdue University#West Lafayette|https://en.wikipedia.org/wiki/Purdue_University
+Rensselaer Polytechnic Institute|https://en.wikipedia.org/wiki/Rensselaer_Polytechnic_Institute
+Rice University|https://en.wikipedia.org/wiki/Rice_University
+Rutgers, The State University of New Jersey#New Brunswick|https://en.wikipedia.org/wiki/Rutgers_University
+Rutgers, The State University of New Jersey#Newark|https://en.wikipedia.org/wiki/Rutgers_University%E2%80%93Newark
+SUNY College of Environmental Science and Forestry|https://en.wikipedia.org/wiki/State_University_of_New_York_College_of_Environmental_Science_and_Forestry
+Saint Louis University|https://en.wikipedia.org/wiki/Saint_Louis_University
+San Diego State University|https://en.wikipedia.org/wiki/San_Diego_State_University
+Seton Hall University|https://en.wikipedia.org/wiki/Seton_Hall_University
+South Carolina State University|https://en.wikipedia.org/wiki/South_Carolina_State_University
+South Dakota State University|https://en.wikipedia.org/wiki/South_Dakota_State_University
+Southern Illinois University#Carbondale|https://en.wikipedia.org/wiki/Southern_Illinois_University_Carbondale
+Southern Methodist University|https://en.wikipedia.org/wiki/Southern_Methodist_University
+St. John Fisher College|https://en.wikipedia.org/wiki/St._John_Fisher_College
+St. John's University|https://en.wikipedia.org/wiki/St._John's_University_%28New_York_City%29
+St. Mary's University of Minnesota|https://en.wikipedia.org/wiki/Saint_Mary's_University_of_Minnesota
+Stanford University|https://en.wikipedia.org/wiki/Stanford_University
+Stevens Institute of Technology|https://en.wikipedia.org/wiki/Stevens_Institute_of_Technology
+Stony Brook University#SUNY|https://en.wikipedia.org/wiki/Stony_Brook_University
+Syracuse University|https://en.wikipedia.org/wiki/Syracuse_University
+Temple University|https://en.wikipedia.org/wiki/Temple_University
+Texas A&M University#College Station|https://en.wikipedia.org/wiki/Texas_A%26M_University
+Texas Christian University|https://en.wikipedia.org/wiki/Texas_Christian_University
+Texas Tech University|https://en.wikipedia.org/wiki/Texas_Tech_University
+The Catholic University of America|https://en.wikipedia.org/wiki/Catholic_University_of_America
+Tufts University|https://en.wikipedia.org/wiki/Tufts_University
+Tulane University|https://en.wikipedia.org/wiki/Tulane_University
+University at Albany#SUNY|https://en.wikipedia.org/wiki/University_at_Albany,_SUNY
+University at Buffalo#SUNY|https://en.wikipedia.org/wiki/University_at_Buffalo
+University of Alabama|https://en.wikipedia.org/wiki/University_of_Alabama
+University of Alabama#Birmingham|https://en.wikipedia.org/wiki/University_of_Alabama_at_Birmingham
+University of Alabama#Huntsville|https://en.wikipedia.org/wiki/University_of_Alabama_in_Huntsville
+University of Arizona|https://en.wikipedia.org/wiki/University_of_Arizona
+University of Arkansas|https://en.wikipedia.org/wiki/University_of_Arkansas
+University of California#Berkeley|https://en.wikipedia.org/wiki/University_of_California,_Berkeley
+University of California#Davis|https://en.wikipedia.org/wiki/University_of_California,_Davis
+University of California#Irvine|https://en.wikipedia.org/wiki/University_of_California,_Irvine
+University of California#Los Angeles|https://en.wikipedia.org/wiki/University_of_California,_Los_Angeles
+University of California#Riverside|https://en.wikipedia.org/wiki/University_of_California,_Riverside
+University of California#San Diego|https://en.wikipedia.org/wiki/University_of_California,_San_Diego
+University of California#Santa Barbara|https://en.wikipedia.org/wiki/University_of_California,_Santa_Barbara
+University of California#Santa Cruz|https://en.wikipedia.org/wiki/University_of_California,_Santa_Cruz
+University of Central Florida|https://en.wikipedia.org/wiki/University_of_Central_Florida
+University of Chicago|https://en.wikipedia.org/wiki/University_of_Chicago
+University of Cincinnati|https://en.wikipedia.org/wiki/University_of_Cincinnati
+University of Colorado#Boulder|https://en.wikipedia.org/wiki/University_of_Colorado_Boulder
+University of Colorado#Denver|https://en.wikipedia.org/wiki/University_of_Colorado_Denver
+University of Connecticut|https://en.wikipedia.org/wiki/University_of_Connecticut
+University of Dayton|https://en.wikipedia.org/wiki/University_of_Dayton
+University of Delaware|https://en.wikipedia.org/wiki/University_of_Delaware
+University of Denver|https://en.wikipedia.org/wiki/University_of_Denver
+University of Florida|https://en.wikipedia.org/wiki/University_of_Florida
+University of Georgia|https://en.wikipedia.org/wiki/University_of_Georgia
+University of Hawaii#Manoa|https://en.wikipedia.org/wiki/University_of_Hawaii_at_Manoa
+University of Houston|https://en.wikipedia.org/wiki/University_of_Houston
+University of Idaho|https://en.wikipedia.org/wiki/University_of_Idaho
+University of Illinois#Chicago|https://en.wikipedia.org/wiki/University_of_Illinois_at_Chicago
+University of Illinois#Urbana-Champaign|https://en.wikipedia.org/wiki/University_of_Illinois_at_Urbana%E2%80%93Champaign
+University of Iowa|https://en.wikipedia.org/wiki/University_of_Iowa
+University of Kansas|https://en.wikipedia.org/wiki/University_of_Kansas
+University of Kentucky|https://en.wikipedia.org/wiki/University_of_Kentucky
+University of La Verne|https://en.wikipedia.org/wiki/University_of_La_Verne
+University of Louisville|https://en.wikipedia.org/wiki/University_of_Louisville
+University of Maine|https://en.wikipedia.org/wiki/University_of_Maine
+University of Maryland#Baltimore County|https://en.wikipedia.org/wiki/University_of_Maryland,_Baltimore_County
+University of Maryland#College Park|https://en.wikipedia.org/wiki/University_of_Maryland,_College_Park
+University of Massachusetts#Amherst|https://en.wikipedia.org/wiki/University_of_Massachusetts_Amherst
+University of Massachusetts#Lowell|https://en.wikipedia.org/wiki/University_of_Massachusetts_Lowell
+University of Miami|https://en.wikipedia.org/wiki/University_of_Miami
+University of Michigan#Ann Arbor|https://en.wikipedia.org/wiki/University_of_Michigan
+University of Minnesota#Twin Cities|https://en.wikipedia.org/wiki/University_of_Minnesota_Twin_Cities
+University of Mississippi|https://en.wikipedia.org/wiki/University_of_Mississippi
+University of Missouri|https://en.wikipedia.org/wiki/University_of_Missouri
+University of Missouri#Kansas City|https://en.wikipedia.org/wiki/University_of_Missouri
+University of Nebraska#Lincoln|https://en.wikipedia.org/wiki/University_of_Nebraska
+University of Nevada#Reno|https://en.wikipedia.org/wiki/University_of_Nevada,_Reno
+University of New Hampshire|https://en.wikipedia.org/wiki/University_of_New_Hampshire
+University of New Mexico|https://en.wikipedia.org/wiki/University_of_New_Mexico
+University of North Carolina#Chapel Hill|https://en.wikipedia.org/wiki/University_of_North_Carolina_at_Chapel_Hill
+University of North Carolina#Charlotte|https://en.wikipedia.org/wiki/University_of_North_Carolina_at_Charlotte
+University of North Carolina#Greensboro|https://en.wikipedia.org/wiki/University_of_North_Carolina_at_Greensboro
+University of North Dakota|https://en.wikipedia.org/wiki/University_of_North_Dakota
+University of Notre Dame|https://en.wikipedia.org/wiki/University_of_Notre_Dame
+University of Oklahoma|https://en.wikipedia.org/wiki/University_of_Oklahoma
+University of Oregon|https://en.wikipedia.org/wiki/University_of_Oregon
+University of Pennsylvania|https://en.wikipedia.org/wiki/University_of_Pennsylvania
+University of Pittsburgh|https://en.wikipedia.org/wiki/University_of_Pittsburgh
+University of Rhode Island|https://en.wikipedia.org/wiki/University_of_Rhode_Island
+University of Rochester|https://en.wikipedia.org/wiki/University_of_Rochester
+University of San Diego|https://en.wikipedia.org/wiki/University_of_San_Diego
+University of San Francisco|https://en.wikipedia.org/wiki/University_of_San_Francisco
+University of South Carolina|https://en.wikipedia.org/wiki/University_of_South_Carolina
+University of South Dakota|https://en.wikipedia.org/wiki/University_of_South_Dakota
+University of South Florida|https://en.wikipedia.org/wiki/University_of_South_Florida
+University of Southern California|https://en.wikipedia.org/wiki/University_of_Southern_California
+University of St. Thomas|https://en.wikipedia.org/wiki/University_of_St._Thomas_%28Minnesota%29
+University of Tennessee|https://en.wikipedia.org/wiki/University_of_Tennessee
+University of Texas#Austin|https://en.wikipedia.org/wiki/University_of_Texas_at_Austin
+University of Texas#Dallas|https://en.wikipedia.org/wiki/University_of_Texas_at_Dallas
+University of Tulsa|https://en.wikipedia.org/wiki/University_of_Tulsa
+University of Utah|https://en.wikipedia.org/wiki/University_of_Utah
+University of Vermont|https://en.wikipedia.org/wiki/University_of_Vermont
+University of Virginia|https://en.wikipedia.org/wiki/University_of_Virginia
+University of Washington|https://en.wikipedia.org/wiki/University_of_Washington
+University of Wisconsin#Madison|https://en.wikipedia.org/wiki/University_of_Wisconsin–Madison
+University of Wyoming|https://en.wikipedia.org/wiki/University_of_Wyoming
+University of the Pacific|https://en.wikipedia.org/wiki/University_of_the_Pacific_%28United_States%29
+Vanderbilt University|https://en.wikipedia.org/wiki/Vanderbilt_University
+Virginia Commonwealth University|https://en.wikipedia.org/wiki/Virginia_Commonwealth_University
+Virginia Tech|https://en.wikipedia.org/wiki/Virginia_Tech
+Wake Forest University|https://en.wikipedia.org/wiki/Wake_Forest_University
+Washington State University|https://en.wikipedia.org/wiki/Washington_State_University
+Washington University in St. Louis|https://en.wikipedia.org/wiki/Washington_University_in_St._Louis
+West Virginia University|https://en.wikipedia.org/wiki/West_Virginia_University
+Western Michigan University|https://en.wikipedia.org/wiki/Western_Michigan_University
+Widener University|https://en.wikipedia.org/wiki/Widener_University
+Worcester Polytechnic Institute|https://en.wikipedia.org/wiki/Worcester_Polytechnic_Institute
+Yale University|https://en.wikipedia.org/wiki/Yale_University
+Yeshiva University|https://en.wikipedia.org/wiki/Yeshiva_University

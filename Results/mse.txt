@@ -1,0 +1,6 @@
+Research Expense: 526.0
+Endowment: 502.0
+Academic staff: 502.0
+Students: 526.0
+Undergrads: 538.0
+Postgrads: 534.0

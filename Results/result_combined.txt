@@ -1,0 +1,204 @@
+1|100|100|Princeton University|Princeton, NJ|$43,450|22.723 billion (2015)|1,172|8,088|5,391|2,697
+2|99|100|Harvard University|Cambridge, MA|$45,278|37.6 billion|4,671|21,000|6,700|14,500
+3|97|100|Yale University|New Haven, CT|$47,600|25.572 billion (2015)|4,410|12,312|5,453|6,859
+4|95|100|Stanford University|Stanford, CA|$46,320|22.223 billion (2015)|2,118|15,877|6,980|8,897
+4|95|100|Columbia University|New York, NY|$51,008|9.639 billion (2015)|3,806|27,942|8,410|19,532
+4|95|100|University of Chicago|Chicago, IL|$50,193|7.550 billion (2015)|2,205|15,312|5,724|9,588
+7|93|100|Massachusetts Institute of Technology|Cambridge, MA|$46,704|13.475 billion (2015)|1,021|11,319|4,512|6,807
+8|92|100|Duke University|Durham, NC|$49,341|7.297 billion (2015)|3,428|14,950|6,485|8,465
+9|91|100|University of Pennsylvania|Philadelphia, PA|$49,536|10.134 billion (2015)|4,555|24,876|10,406|11,035
+10|90|100|Johns Hopkins University|Baltimore, MD|$48,710|3.413 billion (2015)|0|0|6,023|14,848
+10|90|100|California Institute of Technology|Pasadena, CA|$45,390|2.199 billion (2015)|300|2,255|1,001|1,254
+12|89|100|Northwestern University|Evanston, IL|$49,047|10.193 billion (2015)|3,401|21,642|9,001|12,641
+12|89|100|Dartmouth College|Hanover, NH|$49,506|4.663 billion (2015)|1,081|6,298|4,289|2,009
+14|85|100|Brown University|Providence, RI|$49,346|3.3 billion (June 30, 2015)|736|9,073|6,320|2,230
+15|84|100|Cornell University|Ithaca, NY|$49,116|6.038 billion (2015)|1,639|21,904|14,315|7,589
+15|84|100|Washington University in St. Louis|St. Louis, MO|$48,093|6.819 billion (2015)|3,395|14,117|7,303|6,814
+15|84|100|Vanderbilt University|Nashville, TN|$43,838|4.134 billion (2015)|4,102|12,686|6,851|5,835
+18|82|100|University of Notre Dame|Notre Dame, IN|$47,929|10 billion|1,241|12,179|8,448|3731
+18|82|100|Rice University|Houston, TX|$42,253|5.557 billion (2015)|665|6,623|3,879|2,744
+20|77|100|University of California#Berkeley|Berkeley, CA|in-state: $13,432, out-of-state: $38,140|4.045 billion (2015)|0|38,204|27,496|10,708
+21|76|100|Emory University|Atlanta, GA|$46,314|6.684 billion (2015)|13,225|14,513|7,656|6,677
+21|76|100|Georgetown University|Washington, DC|$48,611|1.529 billion (2015)|2,173|17,849|7,636|10,213
+23|74|100|Carnegie Mellon University|Pittsburgh, PA|$50,410|1.739 billion (2015)|1,423|0|6,362|7,141
+23|74|100|University of Southern California|Los Angeles, CA|$50,210|4.710 billion (2015)|3,945|42,469|18,740|23,729
+23|74|100|University of California#Los Angeles|Los Angeles, CA|in-state: $12,753, out-of-state: $35,631|3.49 billion (2015)|4,016|43,301|29,585|12,323
+26|73|100|University of Virginia|Charlottesville, VA|in-state: $14,526, out-of-state: $43,822|7.53 billion (2015)|2,102|0|15,669|6,316
+27|72|100|Wake Forest University|Winston-Salem, NC|$47,682|1.167 billion (2015)|690|7,591|4,812|2,779
+27|72|100|Tufts University|Medford, MA|$50,604|1.593 billion (2015)|1,339|10,685|5,186|5,499
+29|71|100|University of Michigan#Ann Arbor|Ann Arbor, MI|in-state: $14,336, out-of-state: $43,377|10.26 billion|6,771|43,625|28,395|15,230
+30|68|100|Boston College|Chestnut Hill, MA|$49,324|2.220 billion (2015)|1,386|14,100|9,100|4,400
+30|68|100|University of North Carolina#Chapel Hill|Chapel Hill, NC|in-state: $8,562, out-of-state: $33,644|2.989 billion (2015)|3,696|29,084|18,415|10,669
+32|67|100|New York University|New York, NY|$46,170|3.576 billion (2015)|9,489|57,245|24,985|24,289
+33|66|100|University of Rochester|Rochester, NY|$48,290|2.13 billion (2014)|0|0|5,643|4,647
+34|65|100|Brandeis University|Waltham, MA|$49,598|915.1 million (2015)|361|0|3,588|2,220
+34|65|100|College of William and Mary|Williamsburg, VA|in-state: $16,919, out-of-state: $40,516|811.2 million|595|8,437|6,299|2,138
+36|64|100|Georgia Institute of Technology|Atlanta, GA|in-state: $12,204, out-of-state: $32,396|1.89 billion (Fall 2014)|5,516|25,017|15,132|9,885
+37|63|100|University of California#Santa Barbara|Santa Barbara, CA|in-state: $13,865, out-of-state: $38,573|265.9 million (2015)|1,102|23,497|20,607|2,890
+37|63|100|Case Western Reserve University|Cleveland, OH|$44,560|1.76 billion (2015)|3,155|0|4,661|5,664
+39|62|100|University of California#San Diego|La Jolla, CA|in-state: $14,042, out-of-state: $38,066|951.4 million (2015)|1,215|33,735|26,590|7,145
+39|62|100|University of California#Irvine|Irvine, CA|in-state: $14,577, out-of-state: $37,455|504.3 million (2015)|2,685|31,551|25,256|6,295
+41|61|100|Rensselaer Polytechnic Institute|Troy, NY|$49,341|676.5 million (FY2015)|440|7,028|5,557|1,204
+41|61|100|University of California#Davis|Davis, CA|in-state: $13,951, out-of-state: $38,659|1.014 billion (2015)|2,450|36,104|28,384|7,720
+41|61|100|Boston University|Boston, MA|$48,436|1.644 billion (2015)|3,888|33,421|16,512|14,032
+41|61|100|Tulane University|New Orleans, LA|$49,638|1.220 billion (2015)|1,180|13,449|8,339|5,110
+41|61|100|University of Illinois#Urbana-Champaign|Champaign, IL|in-state: $15,626, out-of-state: $30,786|3.3 billion|2,548|44,087|32,878|11,209
+47|60|100|Northeastern University|Boston, MA|$45,530|729.4 million (2015)|1,660|24,944|17,990|6,954
+47|60|100|University of Florida|Gainesville, FL|in-state: $6,313, out-of-state: $28,591|1.55 billion (2015)|5,106|49,042|32,781|15,754
+47|60|100|Lehigh University|Bethlehem, PA|$46,230|1.213 billion (2015)|0|0|4,904|2,057
+47|60|100|Pennsylvania State University#University Park|University Park, PA|in-state: $17,514, out-of-state: $31,346|3.64 billion (2015, systemwide)|8,864|97,494|83,436|14,058
+51|59|100|University of Miami|Coral Gables, FL|$45,724|887.3 million |3,040|16,774|10,917|5,501
+52|58|100|Pepperdine University|Malibu, CA|$48,342|805.2 million (2015)|705|7,632|3,533|4,099
+52|58|100|University of Washington|Seattle, WA|in-state: $12,394, out-of-state: $33,513|3.076 billion (2015)|5,803|45,213|31,099|14,114
+52|58|100|Ohio State University#Columbus|Columbus, OH|in-state: $10,037, out-of-state: $26,537|3.634 billion (2015)|6,254|58,322|44,741|13,581
+52|58|100|University of Texas#Austin|Austin, TX|in-state: $9,830, out-of-state: $34,836|3.27 billion (December 31, 2015)|3,071|51,313|39,523|11,790
+52|58|100|Yeshiva University|New York, NY|$39,530|1.1258 billion|4,714|0|3,017|3,496
+57|56|100|George Washington University|Washington, DC|$50,435|1.616 billion (2015)|2,663|21,409|0|0
+57|56|100|University of Maryland#College Park|College Park, MD|in-state: $9,996, out-of-state: $31,144|283.1 million (2015)|4,509|38,140|27,443|10,697
+57|56|100|University of Connecticut|Storrs, CT|in-state: $13,364, out-of-state: $34,908|436.9 million|4,624|31,119|18,395|8,146
+57|56|100|Worcester Polytechnic Institute|Worcester, MA|$45,590|443.1 million|324|0|4,123|1,734
+61|55|100|Clemson University|Clemson, SC|in-state: $14,240, out-of-state: $32,796|623.2 million (FY 2014)|1,431|22,698|18,016|4,682
+61|55|100|Southern Methodist University|Dallas, TX|$48,190|1.505 billion (June 30, 2015)|786|11,643|6,411|5,232
+61|55|100|University of Georgia|Athens, GA|in-state: $11,622, out-of-state: $29,832| 1.004 billion (FY 2015)|2,879|35,197|26,882|8,315
+61|55|100|Purdue University#West Lafayette|West Lafayette, IN|in-state: $10,002, out-of-state: $28,804|2.398 billion (2015)|3,055|39,409|29,497|9,912
+61|55|100|Syracuse University|Syracuse, NY|$43,318|1.166 billion (2015)|1,563|21,267|15,097|6,170
+66|54|100|Fordham University|New York, NY|$45,623|665.5 million (2015)|1121|15,189|8,427|6,762
+66|54|100|Brigham Young University#Provo|Provo, UT|$5,150|1.05 billion (2013)|1,264|29,672|26,674|2,908
+66|54|100|University of Pittsburgh|Pittsburgh, PA|in-state: $18,192, out-of-state: $28,958|3.589 billion (2015)|4,880|28,617|18,757|9,860
+69|53|100|University of Minnesota#Twin Cities|Minneapolis, MN|in-state: $13,560, out-of-state: $20,810|3.297 billion (2015)|3,374|50,678|30,511|16,294
+70|52|100|Virginia Tech|Blacksburg, VA|in-state: $12,017, out-of-state: $27,444|817.8 million (2015)|1,395|30,598|25,318|5,280
+70|52|100|Texas A&M University#College Station|College Station, TX|in-state: $9,180, out-of-state: $26,356| 4.69 billion (2015)|2,700|64,376|49,545|14,831
+72|51|100|Baylor University|Waco, TX|$40,198|1.168 billion (2015)|1250|16,787|14,189|2,598
+72|51|100|American University|Washington, DC|$43,103|600.3 million (2015)|848|0|7,083|3,464
+72|51|100|Rutgers, The State University of New Jersey#New Brunswick|Piscataway, NJ|in-state: $14,131, out-of-state: $29,521|1.002 billion (2015)|2,937|67,000|48,000|19,000
+75|49|100|Clark University|Worcester, MA|$41,940|404.9 million (2015)|197|3,423|2,301|1,122
+75|49|100|Indiana University#Bloomington|Bloomington, IN|in-state: $10,388, out-of-state: $33,741|1.974 billion (2015)|2,149|42,566|32,752|9,907
+75|49|100|Stevens Institute of Technology|Hoboken, NJ|$47,190|174 million|291|6,598|2,976|3,623
+75|49|100|University of Massachusetts#Amherst|Amherst, MA|in-state: $14,356, out-of-state: $30,689|307.1 million (2014)|0|29,269|22,748|6,521
+75|49|100|Colorado School of Mines|Golden, CO|in-state: $17,383, out-of-state: $34,828|273 million (2014)|0|5,794|4,533|1,261
+75|49|100|Michigan State University|East Lansing, MI|in-state: $13,560, out-of-state: $36,360|2.275 billion (2015)|5,300|50,543|39,143|11,400
+75|49|100|University of Delaware|Newark, DE|in-state: $12,342, out-of-state: $30,692|1.341 billion (2015)|1,172|22,852|18,353|4,499
+82|48|100|Miami University#Oxford|Oxford, OH|in-state: $14,287, out-of-state: $30,987|460 million (2015)|0|23,983|21,463|2,520
+82|48|100|University of California#Santa Cruz|Santa Cruz, CA|in-state: $13,481, out-of-state: $38,189|165.5 million (2015)|0|17,866|16,277|1,589
+82|48|100|Texas Christian University|Fort Worth, TX|$40,720|1.514 billion|981|10,323|8,894|1,429
+82|48|100|University of Iowa|Iowa City, IA|in-state: $8,104, out-of-state: $27,890|1.263 billion (2015)|0|32,150|22,354|9,033
+86|47|100|Marquette University|Milwaukee, WI|$37,170|531.7 million (2014)|1,100|12,002|8,387|3,615
+86|47|100|University of Tulsa|Tulsa, OK|$36,962|1.037 billion (2015)|306|4,352|3,174|1,178
+86|47|100|University of Denver|Denver, CO|$44,178|467 million (Fall 2014)|1,259|11,809|5,643|6,166
+89|46|100|North Carolina State University#Raleigh|Raleigh, NC|in-state: $8,581, out-of-state: $24,932|984 million|2,068|34,015|25,176|9,591
+89|46|100|SUNY College of Environmental Science and Forestry|Syracuse, NY|in-state: $7,770, out-of-state: $17,620|22 million (2014)|127|2,778|2,200|578
+89|46|100|University of San Diego|San Diego, CA|$44,586|395.6 million (2013)|875|0|5,741|1,773
+89|46|100|Binghamton University#SUNY|Binghamton, NY|in-state: $9,044, out-of-state: $22,164|116 million|641|16,887|13,518|3,369
+89|46|100|Stony Brook University#SUNY|Stony Brook, NY|in-state: $8,855, out-of-state: $23,935|247.4 million (2015)|2,471|21,115|16,831|8,441
+89|46|100|University of Colorado#Boulder|Boulder, CO|in-state: $11,091, out-of-state: $34,125|1.090 billion (2015) CU System |1,075|32,080|26,426|5,654
+89|46|100|University of Vermont|Burlington, VT|in-state: $16,226, out-of-state: $37,874|441 million|1,196|0|10,081|1,817
+96|45|100|Florida State University|Tallahassee, FL|in-state: $6,507, out-of-state: $21,673|624 million|5,517|41,773|32,621|9,152
+96|45|100|University of Alabama|Tuscaloosa, AL|in-state: $10,170, out-of-state: $25,950|667,980,131|1,175|37,098|31,958|5,140
+96|45|100|Saint Louis University|St. Louis, MO|$39,226|1.027 billion|2,200|13,505|8,687|4,818
+99|44|100|Loyola University Chicago|Chicago, IL|$39,179|539.7 million (2014)|784|15,068|9,154|5,914
+99|44|100|Drexel University|Philadelphia, PA|$48,791|668.4 million (2015)|0|26,359|16,896|9,463
+99|44|100|University at Buffalo#SUNY|Buffalo, NY|in-state: $8,870, out-of-state: $22,290|624.8 million (2014)|2,844|29,944|19,829|10,115
+102|43|100|Auburn University|Auburn, AL|in-state: $10,424, out-of-state: $28,040|641.9 million|0|27,287|21,786|5,501
+103|42|100|University of Nebraska#Lincoln|Lincoln, NE|in-state: $8,382, out-of-state: $22,790|1.538 billion (2015)|1,064|25,260|20,182|5,078
+103|42|100|University of Oregon|Eugene, OR|in-state: $9,918, out-of-state: $30,888|719 million (2015)|2,031|24,125|20,552|3,573
+103|42|100|University of Missouri|Columbia, MO|in-state: $9,509, out-of-state: $25,166|852.3 mil. (June 2015)|3,243|35,448|27,812|6,442
+103|42|100|University of New Hampshire|Durham, NH|in-state: $16,552, out-of-state: $29,532|336 million|0|15,340|12,840|2,500
+103|42|100|University of Tennessee|Knoxville, TN|in-state: $11,948, out-of-state: $30,138|1.107 billion (2015)|1,500|27,410|21,451|5,959
+108|41|100|Illinois Institute of Technology|Chicago, IL|$43,680|235.5 million|659|7,790|2,991|3,271
+108|41|100|University of Dayton|Dayton, OH|$39,090|518.2 million|922|0|8,554|2,520
+108|41|100|University of San Francisco|San Francisco, CA|$42,634|314.3 million (2015)|1,245|10,828|6,782|4,046
+108|41|100|University of the Pacific|Stockton, CA|$42,934|385.0 million (2015)|0|6,717|3,757|2,960
+108|41|100|Iowa State University|Ames, IA|in-state: $7,736, out-of-state: $20,856|777.018 million|1,845|36,001|30,034|5,096
+108|41|100|University of Oklahoma|Norman, OK|in-state: $7,695, out-of-state: $20,469|1.523 billion (2015)|2,937|30,824|22,152|6,138
+108|41|100|University of South Carolina|Columbia, SC|in-state: $11,158, out-of-state: $29,440|625,186,000 |1,604|33,575|0|0
+115|40|100|Duquesne University|Pittsburgh, PA|$33,778|260.6 Million|0|10,364|5,858|4,505
+115|40|100|University of Kansas|Lawrence, KS|in-state: $10,448, out-of-state: $25,731|1.8 billion|2,663|28,091|0|0
+115|40|100|University of Utah|Salt Lake City, UT|in-state: $8,239, out-of-state: $26,177|1.023 billion (2015)|2,687|31,673|23,909|7,764
+115|40|100|Clarkson University|Potsdam, NY|$44,630|186.14 million |309|4,300|0|0
+115|40|100|Temple University|Philadelphia, PA|in-state: $15,096, out-of-state: $25,122|386.2 million (2015)|1,599|37,788|28,408|9,380
+115|40|100|University of St. Thomas|St. Paul, MN|$36,475|458 million|879|10,229|6,234|3,995
+121|39|100|University of California#Riverside|Riverside, CA|in-state: $14,050, out-of-state: $40,973|185.3 million (2015)|1,638|21,539|18,608|2,931
+121|39|100|University of Arizona|Tucson, AZ|in-state: $10,872, out-of-state: $30,025|673.3 million (2015) |3,049|40,621|31,670|7,443
+123|38|100|DePaul University|Chicago, IL|$36,361|447 million (2015)|919|0|15,961|7,578
+123|38|100|Seton Hall University|South Orange, NJ|$36,926|260.8 million (2015)|0|0|5,800|4,500
+123|38|100|The Catholic University of America|Washington, DC|$40,932|301 million|694|6,725|3,713|3,012
+123|38|100|Michigan Technological University|Houghton, MI|in-state: $14,040, out-of-state: $29,520|92.9 million (2014)|485|7,034|5,639|1,318
+127|37|100|New School|New York, NY|$42,977|300 million|2,230|10,186|6,836|3,138
+127|37|100|Colorado State University|Fort Collins, CO|in-state: $10,590, out-of-state: $27,258|284.4 million|1,468|32,236|25,622|7,458
+129|36|100|Louisiana State University#Baton Rouge|Baton Rouge, LA|in-state: $8,750, out-of-state: $26,467|692 million (2012 total of all LSU campuses)|1,500|31,527|26,159|5,368
+129|36|100|University of Arkansas|Fayetteville, AR|in-state: $8,522, out-of-state: $23,320|920.6 million (2014)|1,058|26,754|22,283|4,018
+129|36|100|University of Kentucky|Lexington, KY|in-state: $10,936, out-of-state: $24,268|1.143 billion (2015)|0|29,385|21,441|6,994
+129|36|100|Arizona State University#Tempe|Tempe, AZ|in-state: $10,127, out-of-state: $24,503|643.2 million (2015)|3,095|50,246|67,507|15,794
+129|36|100|University at Albany#SUNY|Albany, NY|in-state: $8,996, out-of-state: $22,116|49 million|940|17,500|12,950|4,650
+129|36|100|University of Illinois#Chicago|Chicago, IL|in-state: $13,670, out-of-state: $26,526|2.278 billion|2,637|29,048|17,575|11,473
+135|35|100|George Mason University|Fairfax, VA|in-state: $10,952, out-of-state: $31,598| 70.2 million (2014)|2,893|33,917|21,324|11,873
+135|35|100|Howard University|Washington, DC|$23,970|659.6 million|0|10,300|0|0
+135|35|100|Oregon State University|Corvallis, OR|in-state: $10,107, out-of-state: $28,767|505.4 million (2015)|0|30,058|25,648|4,410
+135|35|100|Hofstra University|Hempstead, NY|$40,460|411.7 million|3,361|10,870|6,833|4,037
+135|35|100|Ohio University|Athens, OH|in-state: $11,548, out-of-state: $20,512|550 million|2,187|39,861|23,000|3,645
+140|34|100|Rutgers, The State University of New Jersey#Newark|Newark, NJ|in-state: $13,597, out-of-state: $28,987|603 million (systemwide)|528|11,314|7,408|3,906
+140|34|100|University of Mississippi|University, MS|in-state: $7,444, out-of-state: $20,674|593,921,946 (2014) |871|23,838|0|0
+140|34|100|Washington State University|Pullman, WA|in-state: $12,485, out-of-state: $25,567|868.1 million|2,261|29,686|24,470|4,269
+140|34|100|New Jersey Institute of Technology|Newark, NJ|in-state: $15,648, out-of-state: $29,288|99.3 million (2015)|541|11,325|8,008|3,317
+140|34|100|University of Cincinnati|Cincinnati, OH|in-state: $11,000, out-of-state: $26,334|1.2 billion (November 2014)|5,928|44,251|31,983|10,673
+140|34|100|University of Texas#Dallas|Richardson, TX|in-state: $11,806, out-of-state: $31,328|408.972 million
+(Dec 31, 2015)|1,212|24,554|14,319|8,776
+146|33|100|Missouri University of Science & Technology|Rolla, MO|in-state: $9,628, out-of-state: $26,152|136 million (June 2013)|492|8,642|6,522|2,120
+146|33|100|Kansas State University|Manhattan, KS|in-state: $9,034, out-of-state: $22,624|488.9 million (2015)|1,404|24,146|0|0
+146|33|100|St. John Fisher College|Rochester, NY|$30,690|0|0|0|2,700|1,000
+149|32|100|Illinois State University|Normal, IL|in-state: $12,830, out-of-state: $20,420|87.2 million|0|20,788|18,423|2,365
+149|32|100|San Diego State University|San Diego, CA|in-state: $6,976, out-of-state: $18,136|209.4 million (2015)|1,491|34,254|29,234|5,020
+149|32|100|Oklahoma State University|Stillwater, OK|in-state: $7,442, out-of-state: $20,027|904,893,000|0|23,459|0|0
+149|32|100|University of Alabama#Birmingham|Birmingham, AL|in-state: $9,280, out-of-state: $21,220|424.5 million |2,044|18,568|11,502|7,066
+153|31|100|Adelphi University|Garden City, NY|$34,034|175 million|1,013|7,859|5,103|2,756
+153|31|100|St. John's University|Queens, NY|$38,680|644.6 million (2014)|1,456|0|15,720|5,634
+153|31|100|Southern Illinois University#Carbondale|Carbondale, IL|in-state: $13,137, out-of-state: $26,390|121,047,983 (2015)|0|17,292|13,031|4,261
+156|30|100|University of Massachusetts#Lowell|Lowell, MA|in-state: $12,447, out-of-state: $27,400| 82.4 million (2015)|1,043|17,500|0|0
+156|30|100|Virginia Commonwealth University|Richmond, VA|in-state: $12,772, out-of-state: $30,838| 1.638 billion|3,279|31,242|24,051|7,191
+156|30|100|University of Maryland#Baltimore County|Baltimore, MD|in-state: $11,006, out-of-state: $23,770|75 million|825|13,839|11,243|2,596
+156|30|100|University of South Florida|Tampa, FL|in-state: $6,410, out-of-state: $17,325|418 million|6,133|48,793|36,108|9,889
+160|29|100|University of La Verne|La Verne, CA|$38,560|56.4 million (2013)|0|0|0|0
+161|28|100|Florida Institute of Technology|Melbourne, FL|$39,290|66.2 million|557|6,393|3,636|2,757
+161|28|100|Maryville University of St. Louis|St Louis, MO|$26,958|46 million as of May 15, 2015.|300|6,400|2,795|3,619
+161|28|100|University of Hawaii#Manoa|Honolulu, HI|in-state: $11,404, out-of-state: $31,516|280.2 million (2015)|0|20,435|13,952|6,483
+161|28|100|Biola University|La Mirada, CA|$34,498|105.4 million|475|0|4,011|1,308
+161|28|100|Immaculata University|Immaculata, PA|$33,280|0|100|0|2,000|1,100
+161|28|100|Mississippi State University|Mississippi State, MS|in-state: $7,502, out-of-state: $20,142|456,609,736 (2014)|1,359|20,873|0|0
+161|28|100|University of Rhode Island|Kingston, RI|in-state: $12,506, out-of-state: $28,072|131.7 million (2015)|0|16,795|13,589|2,900
+168|27|100|Ball State University|Muncie, IN|in-state: $9,624, out-of-state: $25,348|192,109,587|949|21,053|16,652|4,401
+168|27|100|University of Central Florida|Orlando, FL|in-state: $6,368, out-of-state: $22,467|155.5 million|1,961|60,821|52,539|8,282
+168|27|100|University of Louisville|Louisville, KY|in-state: $10,738, out-of-state: $24,626|876.82 million (2015)|2,316|22,298|16,151|6,400
+168|27|100|University of Wyoming|Laramie, WY|in-state: $4,892, out-of-state: $15,632|455.1 million|1,151|13,992|0|0
+168|27|100|Texas Tech University|Lubbock, TX|in-state: $9,567, out-of-state: $21,267|1.195 billion
+(systemwide)|2,554|35,893|28,632|5,882
+168|27|100|University of Idaho|Moscow, ID|in-state: $7,020, out-of-state: $21,024|241 million|0|11,534|9,330|1,850
+168|27|100|University of Maine|Orono, ME|in-state: $10,610, out-of-state: $28,880|285 million|720|10,922|9,297|1,625
+175|26|100|Azusa Pacific University|Azusa, CA|$34,754|0|1,004|10,755|6,543|4,212
+175|26|100|Kent State University|Kent, OH|in-state: $10,012, out-of-state: $18,212|109.1 Million|2,623|30,067|23,607|6,460
+175|26|100|Andrews University|Berrien Springs, MI|$27,000|26.3 million|298|3,420|1,760|0
+175|26|100|Edgewood College|Madison, WI|$26,550|0|150|0|2,000|500
+175|26|100|West Virginia University|Morgantown, WV|in-state: $6,960, out-of-state: $20,424|515 million (June 2014)|1,870|29,175|22,563|5,001
+180|25|100|Pace University|New York, NY|$41,325|156.7 million (2015)|1,238|12,772|8,928|4,471
+180|25|100|University of New Mexico|Albuquerque, NM|in-state: $6,846, out-of-state: $20,664|403.7 million (2015)|0|27,353|19,886|7,467
+180|25|100|University of South Dakota|Vermillion, SD|in-state: $8,455, out-of-state: $10,426|206.98 million|423|10,284|7,690|2,594
+180|25|100|St. Mary's University of Minnesota|Winona, MN|$31,335|53 million|96|5,900|1,171|0
+180|25|100|University of North Dakota|Grand Forks, ND|in-state: $7,741, out-of-state: $18,409|230.5 million|823|14,906|11,537|2,866
+185|24|100|Bowling Green State University|Bowling Green, OH|in-state: $10,726, out-of-state: $18,034|118.7 million|1,982|17,706|14,807|2,899
+185|24|100|North Dakota State University|Fargo, ND|in-state: $7,820, out-of-state: $11,169|138 million|893|14,516|0|0
+187|23|100|South Dakota State University|Brookings, SD|in-state: $8,349, out-of-state: $10,520|96.9 million|671|12,559|10,840|0
+187|23|100|University of Houston|Houston, TX|in-state: $10,518, out-of-state: $24,378|716.4 million|4,038|42,704|34,830|7,874
+187|23|100|University of North Carolina#Greensboro|Greensboro, NC|in-state: $6,733, out-of-state: $21,595|251.8 million (2014)|952|16,126|13,608|2,518
+187|23|100|Widener University|Chester, PA|$41,224|73 million (2012)|326|6,464|3,204|3,260
+187|23|100|University of Alabama#Huntsville|Huntsville, AL|in-state: $9,128, out-of-state: $20,622|70 million|479|7,866|6,013|1,853
+187|23|100|University of Nevada#Reno|Reno, NV|in-state: $6,902, out-of-state: $20,812|306.6 million (2015)|1,528|20,898|17,295|2,851
+187|23|100|Western Michigan University|Kalamazoo, MI|in-state: $10,685, out-of-state: $24,917|320 million|925|23,914|18,889|5,025
+194|22|100|East Carolina University|Greenville, NC|in-state: $6,550, out-of-state: $22,124|170,701,001 |2,004|28,289|23,039|4,731
+194|22|100|University of Missouri#Kansas City|Kansas City, MO|in-state: $9,559, out-of-state: $22,714|852.3 mil. (June 2015)|3,243|35,448|27,812|6,442
+194|22|100|Central Michigan University|Mount Pleasant, MI|in-state: $11,850, out-of-state: $23,670|108 million|1017|28,389|21,698|6,613
+194|22|100|South Carolina State University|Orangeburg, SC|in-state: $10,088, out-of-state: $19,856|0|0|0|2,937|0
+194|22|100|University of North Carolina#Charlotte|Charlotte, NC|in-state: $6,384, out-of-state: $19,555|152.7 million|1,456|28,062|22,924|0
+199|21|100|Ashland University|Ashland, OH|$20,242|0|200|6,000|0|0
+199|21|100|Louisiana Tech University|Ruston, LA|in-state: $8,853, out-of-state: $25,851|92 Million|0|12,414|10,696|1,718
+199|21|100|University of Colorado#Denver|Denver, CO|in-state: $10,404, out-of-state: $29,334|593 million (systemwide)|4,023|18,000|0|0
+199|21|100|Indiana University-Purdue University#Indianapolis|Indianapolis, IN|in-state: $9,056, out-of-state: $29,774|601 million|2,152|30,690|22,525|8,165
+199|21|100|New Mexico State University|Las Cruces, NM|in-state: $6,729, out-of-state: $21,234|221.0 million (2015)|1,219|18,497|14,698|3,799
