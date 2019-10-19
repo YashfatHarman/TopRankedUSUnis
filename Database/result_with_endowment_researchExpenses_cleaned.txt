@@ -1,4 +1,4 @@
-Rank,Name,Tuition,Endowment,Academic staff,Students,Undergraduates,Postgraduates,2014 research spending (thousands)
+Rank,Name,City,State,Endowment_millions,Academic staff,Students,Undergraduates,Postgraduates,2014 research spending (thousands)
 1,Princeton University,Princeton,NJ,22723.0,1172,8088,5391,2697,293274
 2,Harvard University,Cambridge,MA,37600.0,4671,21000,6700,14500,933975
 3,Yale University,New Haven,CT,25572.0,4410,12312,5453,6859,772840
@@ -71,7 +71,7 @@ Rank,Name,Tuition,Endowment,Academic staff,Students,Undergraduates,Postgraduates
 70,Texas A&M University#College Station,College Station,TX,4690.0,2700,64376,49545,14831,0
 72,Baylor University,Waco,TX,1168.0,1250,16787,14189,2598,20729
 72,American University,Washington,DC,600.3,848,0,7083,3464,63628
-72,Rutgers, The State University of New Jersey#New Brunswick,Piscataway,NJ,1002.0,2937,67000,48000,19000,134262
+72,Rutgers#The State University of New Jersey#New Brunswick,Piscataway,NJ,1002.0,2937,67000,48000,19000,134262
 75,Clark University,Worcester,MA,404.9,197,3423,2301,1122,6168
 75,Indiana University#Bloomington,Bloomington,IN,1974.0,2149,42566,32752,9907,206039
 75,Stevens Institute of Technology,Hoboken,NJ,174.0,291,6598,2976,3623,30826
@@ -137,7 +137,7 @@ Rank,Name,Tuition,Endowment,Academic staff,Students,Undergraduates,Postgraduates
 135,Oregon State University,Corvallis,OR,505.4,0,30058,25648,4410,91203
 135,Hofstra University,Hempstead,NY,411.7,3361,10870,6833,4037,3102
 135,Ohio University,Athens,OH,550.0,2187,39861,23000,3645,60800
-140,Rutgers, The State University of New Jersey#Newark,Newark,NJ,603.0,528,11314,7408,3906,28083
+140,Rutgers#The State University of New Jersey#Newark,Newark,NJ,603.0,528,11314,7408,3906,28083
 140,University of Mississippi,University,MS,593.921946,871,23838,0,0,0
 140,Washington State University,Pullman,WA,868.1,2261,29686,24470,4269,326414
 140,New Jersey Institute of Technology,Newark,NJ,99.3,541,11325,8008,3317,106081
