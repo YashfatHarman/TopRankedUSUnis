@@ -3,7 +3,7 @@ A small project done back in 2016/2017. Wanted to mine some data about top US un
 2. Then for each university, corresponding wikipedia page was mined and some additional information (for example, endowment) was collected.
 3. Finally, annual research expenditure for each university was collected from an NSF report.
 
-After the date from various sources are joined and cleaned, the answer of the following questions were looked for:
+After the date from various sources were joined and cleaned, the answer of the following questions were looked for:
 1. What single piece of data is the most correlated to ranking?
 2. What are the outliers?
 3. By region of country, which feature is most important for higher education: ranking, and cost? Which region has the best universities, and which region is the most affordable? 
